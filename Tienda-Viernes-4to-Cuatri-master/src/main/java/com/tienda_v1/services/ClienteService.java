@@ -7,10 +7,6 @@ package com.tienda_v1.services;
 import com.tienda_v1.domain.Cliente;
 import java.util.List;
 
-/**
- *
- * @author Santiago
- */
 public interface ClienteService {
     
     //Obtiene la lista de registros de la tabla cliente
